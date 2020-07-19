@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toku-chat-app-frontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/toku-chat-app-frontend/static/js/main.27db370c.chunk.js",
+    "main.js.map": "/toku-chat-app-frontend/static/js/main.27db370c.chunk.js.map",
+    "runtime-main.js": "/toku-chat-app-frontend/static/js/runtime-main.a9e3a24c.js",
+    "runtime-main.js.map": "/toku-chat-app-frontend/static/js/runtime-main.a9e3a24c.js.map",
+    "static/js/2.3a621db0.chunk.js": "/toku-chat-app-frontend/static/js/2.3a621db0.chunk.js",
+    "static/js/2.3a621db0.chunk.js.map": "/toku-chat-app-frontend/static/js/2.3a621db0.chunk.js.map",
+    "index.html": "/toku-chat-app-frontend/index.html",
+    "precache-manifest.546b8cf4c135deb99f70722f0bf870b4.js": "/toku-chat-app-frontend/precache-manifest.546b8cf4c135deb99f70722f0bf870b4.js",
+    "service-worker.js": "/toku-chat-app-frontend/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/toku-chat-app-frontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3a621db0.chunk.js.LICENSE.txt": "/toku-chat-app-frontend/static/js/2.3a621db0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/toku-chat-app-frontend/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e3a24c.js",
+    "static/js/2.3a621db0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.27db370c.chunk.js"
+  ]
+}
